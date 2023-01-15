@@ -1,0 +1,2 @@
+# JavaCollege
+moje semestralky..

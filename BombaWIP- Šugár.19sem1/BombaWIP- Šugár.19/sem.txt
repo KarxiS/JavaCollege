@@ -1,0 +1,7 @@
+bomba hra - zhorsujuca sa farba stvoreckov , musi kliknut ked bude sa blizit k cervenej, nesmie byt uplne cervena a vybuchnut. 
+mozu byt aj okruhle bomby, tym padom aj ine podmienky na kliknutie . 
+pri kliknuti, vyuzitem obrazok alebo trojciferny displej, na poukazanie, ze trafil a pripocita sa mu ciastka do score 
+HP - kazdy neskory klik -25 hp . 3x moze nekliknut , tu prichadza aj background classa, vygeneruje pozadie a na to sa vygeneruje hp cez trociferny displej
+Score bar - potrebuje score na posun do dalsieho levelu
+menu- klikatelne- tlacitka generovane cez tlacitko classu a ona si vytvori manazera, dufam. inak cez terminal
+nabijacka - priestor, kde bude klikat a nabijat svoj druhy bar - tento bar moze vyuzit v dalsich leveloch. na co ho moze vyuzit? este neviem:D
